@@ -1,0 +1,17 @@
+.octopusdeco{
+position: relative;
+width: 100%;
+}
+
+#octopus{
+position: relative;
+left: 400px;
+bottom: 75px;
+}
+
+#hat{
+	position: relative;
+	left: 390px;
+	bottom: 60px;
+
+}
